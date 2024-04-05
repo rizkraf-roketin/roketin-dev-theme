@@ -1,2 +1,2 @@
-# roketin-dev-theme
+# shopify-dev-theme
 shopify theme customization dev
